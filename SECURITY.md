@@ -4,9 +4,9 @@
 
 We sincerely request you to keep the vulnerability information confidential and responsibly disclose the vulnerabilities.
 
-To report a vulnerability, please contact the Security Team: [kmesh-security-vulnerability@googlegroups.com](mailto:kmesh-security-vulnerability@googlegroups.com). You can email the Security Team with the security details and the details expected for [Kmesh vulnerability reports](./comms-templates/vulnerability-report-template.md).
+To report a vulnerability, please contact the Security Team: [kmesh-security-vulnerability@googlegroups.com](mailto:kmesh-security-vulnerability@googlegroups.com). You can email the Security Team with the security details and the details expected for [Kmesh vulnerability reports](./security-team/comms-templates/vulnerability-report-template.md).
 
-The information of the Security Team members is described in [here](security-groups.md).
+The information of the Security Team members is described in [here](./security-team/security-groups.md).
 
 ### E-mail Response
 
@@ -27,9 +27,9 @@ If you think you discovered a vulnerability in another project that Kmesh depend
 
 ## Security release process
 
-The Kmesh community will strictly handle the reporting vulnerability according to this [procedure](security-release-process.md). The following flowchart shows the vulnerability handling process.
+The Kmesh community will strictly handle the reporting vulnerability according to this [procedure](./security-team/security-release-process.md). The following flowchart shows the vulnerability handling process.
 
-<img src="./images/vulnerability-handling-process.PNG">
+<img src="./security-team/images/vulnerability-handling-process.PNG">
 
 ## Relative Mailing lists
 
@@ -37,9 +37,9 @@ The Kmesh community will strictly handle the reporting vulnerability according t
 
 - [kmesh-security-vulnerability@googlegroups.com](mailto:kmesh-security-vulnerability@googlegroups.com), is for advance private information and vulnerability disclosure.
 
-More details of group membership is managed [here](security-groups.md).
+More details of group membership is managed [here](./security-team/security-groups.md).
 
-See the [private-distributors-list](private-distributors-list.md) for information on how Kmesh distributors or vendors can apply to join this list.
+See the [private-distributors-list](./security-team/private-distributors-list.md) for information on how Kmesh distributors or vendors can apply to join this list.
 
 ## Supported versions
 
