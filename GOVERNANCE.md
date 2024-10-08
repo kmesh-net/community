@@ -68,7 +68,7 @@ contributors to handle it. The approvers will review who is assigned to this
 at least once a year.
 
 The Security Response Team is responsible for handling all reports of security
-holes and breaches according to the [security policy](https://github.com/Kmesh-io/community/blob/main/security-team/SECURITY.md).
+holes and breaches according to the [security policy](https://github.com/kmesh-net/community/blob/main/security-team/SECURITY.md).
 
 ## Voting
 
