@@ -14,7 +14,7 @@ Resources:
 
 - [Meeting Notes and Agenda](https://docs.google.com/document/d/1fFqolwWMVMk92yXPHvWGrMgsrb8Xru_v4Cve5ummjbk/edit)
 - [mailing list](https://groups.google.com/forum/#!forum/kmesh)
-- [Meeting Link](https://app.huawei.com/wmeeting/join/95700296/C0UTK1gy1cOpi8mPV3qU5aKyc7T394ipj)
+- [Meeting Link](https://app.huawei.com/wmeeting/join/97427195/NHRwTCfXA1PM8aNpDN5RsDlrpNAg3uavD)
 
 ## Contact
 
