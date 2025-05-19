@@ -14,7 +14,7 @@ Resources:
 
 - [Meeting Notes and Agenda](https://docs.google.com/document/d/1fFqolwWMVMk92yXPHvWGrMgsrb8Xru_v4Cve5ummjbk/edit)
 - [mailing list](https://groups.google.com/forum/#!forum/kmesh)
-- [Meeting Link](https://app.huawei.com/wmeeting/join/97427195/NHRwTCfXA1PM8aNpDN5RsDlrpNAg3uavD)
+- [Meeting Link](https://zoom-lfx.platform.linuxfoundation.org/meeting/99299011908?password=f4c31ddd-11ed-42ae-a617-3e0842c39c58)
 
 ## Contact
 
