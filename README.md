@@ -30,6 +30,12 @@ If you're interested in being a contributor and want to get involved in
 developing the Kmesh code, please see [CONTRIBUTING](CONTRIBUTING.md) for
 details on submitting patches and the contribution workflow.
 
+## Mentorship
+
+We offer dedicated mentorship in several renowned open-source programs, including Google Summer of Code (GSoC), Linux Foundation Mentorship (LFX), and the Open Source Promotion Plan (OSPP), empowering contributors to grow their skills and make impactful contributions to the open-source ecosystem.
+
+To become a mentee and explore available opportunities, visit our [mentorship section](./mentorship/)
+
 ## License
 
 The Kmesh user space components are licensed under the
