@@ -1,14 +1,12 @@
 # Project Ideas
 
-If you are a Prometheus-Operator team member and consider mentoring during the GSoC 2025 cycle, please, submit your ideas below using the template.
+If you are a Kmesh team member and consider mentoring during the GSoC cycle, please, submit your ideas below using the template.
 
 If you are a GSoC candidate, please check out our [contributor guidance](../contributor_guidelines.md).
 
 
-> **NOTE:** Please note that GSoC is a program known for its strict deadlines. In addition to responding to your mentee on time, you will be required to submit evaluations on time. Failures to meet the deadlines might affect Prometheus-Operator's future participation in GSoC.
+> **NOTE:** Please note that GSoC is a program known for its strict deadlines. In addition to responding to your mentee on time, you will be required to submit evaluations on time. Failures to meet the deadlines might affect Kmesh's future participation in GSoC.
 
-
-**While we submit 2 topics this year, you can notice that both have the same mentors. Because we consider that it isn't sustainable and respectful for the 3 mentors to follow 2 projects in parallel, we intend to select only one project in the end. The selection will be based on the quality of the answers received.**
 
 ---
 
