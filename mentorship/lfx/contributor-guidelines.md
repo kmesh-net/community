@@ -6,7 +6,7 @@
 * Go through the [LFX 2025 Project Ideas List](./2025/project_ideas.md) and read our [Contributing Guide](https://github.com/kmesh-net/kmesh/blob/main/CONTRIBUTING.md).
 * Understand the [LFX timeline](https://docs.linuxfoundation.org/lfx/mentorship/mentorship-program-timelines), application process and the project you are applying for, assuming best intentions throughout the period.
 * Join our [Slack Channel](https://cloud-native.slack.com/archives/C06BU2GB8NL) and introduce yourself. 
-* Ask for any development-related help in the `#kmesh` channel.
+* Ask for any development-related help in the [#kmesh](https://cloud-native.slack.com/archives/C06BU2GB8NL) channel.
 * Start your proposal as early as possible following the template below. If you're new to kmesh, try out our [getting started guide](https://kmesh.net/en/docs/setup/quick-start/).
 * Solving [good-first-issues](https://github.com/kmesh-net/kmesh/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22) will show us that you can be a good LFX contributor. 
 * Other form of contributions like helping out on Slack, GitHub issues, and reviewing pull requests are also most welcomed. We'd prefer contributors who can not only contribute to the codebase of kemsh but can also contribute to the community around it.
